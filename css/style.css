@@ -1,0 +1,22 @@
+.users {
+ background-color:  #fee;
+ padding: 0.5em;
+}
+
+
+
+.example {
+ background-color:  #eee;
+ padding: 0.5em;
+ margin-bottom: 1em;
+}
+
+#submit {
+ margin-top: 1em;
+}
+
+.pic img {
+  width: 4em;
+}
+
+

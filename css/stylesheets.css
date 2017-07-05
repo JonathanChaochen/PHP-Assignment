@@ -1,0 +1,10 @@
+.pagination .selected {
+  color: black;
+  background: #eee;
+}
+
+
+.activeUsers {
+ background-color:  #efe;
+ padding: 0.5em;
+}
